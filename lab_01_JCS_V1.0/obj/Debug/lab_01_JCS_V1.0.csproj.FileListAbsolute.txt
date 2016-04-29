@@ -1,0 +1,5 @@
+D:\CS 1400\Lab 1\Jon\lab_01_JCS_V1.0\lab_01_JCS_V1.0\bin\Debug\lab_01_JCS_V1.0.exe
+D:\CS 1400\Lab 1\Jon\lab_01_JCS_V1.0\lab_01_JCS_V1.0\bin\Debug\lab_01_JCS_V1.0.pdb
+D:\CS 1400\Lab 1\Jon\lab_01_JCS_V1.0\lab_01_JCS_V1.0\obj\Debug\lab_01_JCS_V1.0.csprojResolveAssemblyReference.cache
+D:\CS 1400\Lab 1\Jon\lab_01_JCS_V1.0\lab_01_JCS_V1.0\obj\Debug\lab_01_JCS_V1.0.exe
+D:\CS 1400\Lab 1\Jon\lab_01_JCS_V1.0\lab_01_JCS_V1.0\obj\Debug\lab_01_JCS_V1.0.pdb
